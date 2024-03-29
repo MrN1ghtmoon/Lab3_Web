@@ -21,13 +21,13 @@ if ($userData) {
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Lab 3</title>
 </head>
 <body>
     <a href="Regular.php"><h2>Regular</h2></a>
     <a href="Form.php"><h2>Form</h2></a>
     <a href="FormTask2(b).php"><h2>FormTask2(b)</h2></a>
     <a href="FormTask2(c).php"><h2>FormTask2(c)</h2></a>
-    <a href="FormTask2(c).php"><h2>Files</h2></a>
+    <a href="Files.php"><h2>Files</h2></a>
 </body>
 </html>
