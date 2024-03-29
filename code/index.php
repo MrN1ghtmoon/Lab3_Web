@@ -10,5 +10,6 @@
 <body>
     <a href="Regular.php"><h2>Regular</h2></a>
     <a href="Form.php"><h2>Form</h2></a>
+    <a href="FormTask2(b).php"><h2>FormTask2(b)</h2></a>
 </body>
 </html>
