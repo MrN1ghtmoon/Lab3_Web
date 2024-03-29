@@ -28,5 +28,6 @@
         <br />
         <input type="submit" name="submit" value="Calculate">
     </form>
+    <a href = "index.php"><h2>Back</h2></a>
 </body>
 </html>
