@@ -28,5 +28,6 @@ if ($userData) {
     <a href="Form.php"><h2>Form</h2></a>
     <a href="FormTask2(b).php"><h2>FormTask2(b)</h2></a>
     <a href="FormTask2(c).php"><h2>FormTask2(c)</h2></a>
+    <a href="FormTask2(c).php"><h2>Files</h2></a>
 </body>
 </html>
